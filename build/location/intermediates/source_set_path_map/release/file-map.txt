@@ -1,0 +1,16 @@
+com.lyokone.location-jetified-annotation-experimental-1.1.0-0 C:\Users\dell\.gradle\caches\transforms-3\07fec599792831fcdbaff5fccb9ea008\transformed\jetified-annotation-experimental-1.1.0\res
+com.lyokone.location-core-1.6.0-1 C:\Users\dell\.gradle\caches\transforms-3\224802b2eab8f99a3b6379c9abb8addb\transformed\core-1.6.0\res
+com.lyokone.location-coordinatorlayout-1.0.0-2 C:\Users\dell\.gradle\caches\transforms-3\3922018a4c771e4e0b7ccf41f5ec0dd1\transformed\coordinatorlayout-1.0.0\res
+com.lyokone.location-jetified-window-java-1.0.0-beta04-3 C:\Users\dell\.gradle\caches\transforms-3\568cac67431a7b5e14b4adbeaacdcbd4\transformed\jetified-window-java-1.0.0-beta04\res
+com.lyokone.location-jetified-play-services-basement-16.0.1-4 C:\Users\dell\.gradle\caches\transforms-3\b06ded912e583efe0606a67634b01ad5\transformed\jetified-play-services-basement-16.0.1\res
+com.lyokone.location-jetified-play-services-base-16.0.1-5 C:\Users\dell\.gradle\caches\transforms-3\bef2c6e41ad2550ae9310dcbacbb23a4\transformed\jetified-play-services-base-16.0.1\res
+com.lyokone.location-media-1.0.0-6 C:\Users\dell\.gradle\caches\transforms-3\dae0cecb93dd58031d0ec05a80ba8256\transformed\media-1.0.0\res
+com.lyokone.location-jetified-window-1.0.0-beta04-7 C:\Users\dell\.gradle\caches\transforms-3\e39d25a91ab4d8962b61006bb1c3b5e8\transformed\jetified-window-1.0.0-beta04\res
+com.lyokone.location-main-8 C:\Users\dell\AppData\Local\Pub\Cache\hosted\pub.dev\location-4.4.0\android\src\main\res
+com.lyokone.location-release-9 C:\Users\dell\AppData\Local\Pub\Cache\hosted\pub.dev\location-4.4.0\android\src\release\res
+com.lyokone.location-pngs-10 E:\codecanyon\build\location\generated\res\pngs\release
+com.lyokone.location-resValues-11 E:\codecanyon\build\location\generated\res\resValues\release
+com.lyokone.location-rs-12 E:\codecanyon\build\location\generated\res\rs\release
+com.lyokone.location-mergeReleaseResources-13 E:\codecanyon\build\location\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.lyokone.location-mergeReleaseResources-14 E:\codecanyon\build\location\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.lyokone.location-merged_res-15 E:\codecanyon\build\location\intermediates\merged_res\release

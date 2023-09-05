@@ -1,0 +1,14 @@
+com.inspireui.common_library.inspireui-jetified-annotation-experimental-1.1.0-0 C:\Users\dell\.gradle\caches\transforms-3\07fec599792831fcdbaff5fccb9ea008\transformed\jetified-annotation-experimental-1.1.0\res
+com.inspireui.common_library.inspireui-core-1.6.0-1 C:\Users\dell\.gradle\caches\transforms-3\224802b2eab8f99a3b6379c9abb8addb\transformed\core-1.6.0\res
+com.inspireui.common_library.inspireui-jetified-security-crypto-1.1.0-alpha04-2 C:\Users\dell\.gradle\caches\transforms-3\439c37e763c707b4d4ed785e88018628\transformed\jetified-security-crypto-1.1.0-alpha04\res
+com.inspireui.common_library.inspireui-jetified-window-java-1.0.0-beta04-3 C:\Users\dell\.gradle\caches\transforms-3\568cac67431a7b5e14b4adbeaacdcbd4\transformed\jetified-window-java-1.0.0-beta04\res
+com.inspireui.common_library.inspireui-jetified-window-1.0.0-beta04-4 C:\Users\dell\.gradle\caches\transforms-3\e39d25a91ab4d8962b61006bb1c3b5e8\transformed\jetified-window-1.0.0-beta04\res
+com.inspireui.common_library.inspireui-main-5 C:\Users\dell\AppData\Local\Pub\Cache\hosted\pub.dev\inspireui-1.5.1\android\src\main\res
+com.inspireui.common_library.inspireui-release-6 C:\Users\dell\AppData\Local\Pub\Cache\hosted\pub.dev\inspireui-1.5.1\android\src\release\res
+com.inspireui.common_library.inspireui-packaged_res-7 E:\codecanyon\build\flutter_secure_storage\intermediates\packaged_res\release
+com.inspireui.common_library.inspireui-pngs-8 E:\codecanyon\build\inspireui\generated\res\pngs\release
+com.inspireui.common_library.inspireui-resValues-9 E:\codecanyon\build\inspireui\generated\res\resValues\release
+com.inspireui.common_library.inspireui-rs-10 E:\codecanyon\build\inspireui\generated\res\rs\release
+com.inspireui.common_library.inspireui-mergeReleaseResources-11 E:\codecanyon\build\inspireui\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.inspireui.common_library.inspireui-mergeReleaseResources-12 E:\codecanyon\build\inspireui\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.inspireui.common_library.inspireui-merged_res-13 E:\codecanyon\build\inspireui\intermediates\merged_res\release

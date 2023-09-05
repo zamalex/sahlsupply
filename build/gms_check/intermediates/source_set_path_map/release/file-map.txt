@@ -1,0 +1,14 @@
+com.github.simonpham.gms_check-jetified-annotation-experimental-1.1.0-0 C:\Users\dell\.gradle\caches\transforms-3\07fec599792831fcdbaff5fccb9ea008\transformed\jetified-annotation-experimental-1.1.0\res
+com.github.simonpham.gms_check-core-1.6.0-1 C:\Users\dell\.gradle\caches\transforms-3\224802b2eab8f99a3b6379c9abb8addb\transformed\core-1.6.0\res
+com.github.simonpham.gms_check-jetified-window-java-1.0.0-beta04-2 C:\Users\dell\.gradle\caches\transforms-3\568cac67431a7b5e14b4adbeaacdcbd4\transformed\jetified-window-java-1.0.0-beta04\res
+com.github.simonpham.gms_check-jetified-play-services-basement-18.1.0-3 C:\Users\dell\.gradle\caches\transforms-3\58e6fe0772ba7f9098a9b109e443a855\transformed\jetified-play-services-basement-18.1.0\res
+com.github.simonpham.gms_check-jetified-play-services-base-18.1.0-4 C:\Users\dell\.gradle\caches\transforms-3\6e07938ced3a9588eb29d4aacf981cdc\transformed\jetified-play-services-base-18.1.0\res
+com.github.simonpham.gms_check-jetified-window-1.0.0-beta04-5 C:\Users\dell\.gradle\caches\transforms-3\e39d25a91ab4d8962b61006bb1c3b5e8\transformed\jetified-window-1.0.0-beta04\res
+com.github.simonpham.gms_check-main-6 C:\Users\dell\AppData\Local\Pub\Cache\hosted\pub.dev\gms_check-1.0.1\android\src\main\res
+com.github.simonpham.gms_check-release-7 C:\Users\dell\AppData\Local\Pub\Cache\hosted\pub.dev\gms_check-1.0.1\android\src\release\res
+com.github.simonpham.gms_check-pngs-8 E:\codecanyon\build\gms_check\generated\res\pngs\release
+com.github.simonpham.gms_check-resValues-9 E:\codecanyon\build\gms_check\generated\res\resValues\release
+com.github.simonpham.gms_check-rs-10 E:\codecanyon\build\gms_check\generated\res\rs\release
+com.github.simonpham.gms_check-mergeReleaseResources-11 E:\codecanyon\build\gms_check\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.github.simonpham.gms_check-mergeReleaseResources-12 E:\codecanyon\build\gms_check\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.github.simonpham.gms_check-merged_res-13 E:\codecanyon\build\gms_check\intermediates\merged_res\release

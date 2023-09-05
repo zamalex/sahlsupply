@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">123235642045-rhqj26cdn5ds48c84qdbqk83k4p05fva.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://sahl-supply-fc9f7-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">123235642045</string>
+    <string name="google_api_key" translatable="false">AIzaSyAm_ZEJZ58IDAn9IjtGr3a9Y0UKKjOcWI0</string>
+    <string name="google_app_id" translatable="false">1:123235642045:android:d263ed5a53b592bc30a5d4</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAm_ZEJZ58IDAn9IjtGr3a9Y0UKKjOcWI0</string>
+    <string name="google_storage_bucket" translatable="false">sahl-supply-fc9f7.appspot.com</string>
+    <string name="project_id" translatable="false">sahl-supply-fc9f7</string>
+</resources>
