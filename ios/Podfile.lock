@@ -628,8 +628,6 @@ PODS:
     - abseil/base/base_internal
     - abseil/base/config
     - abseil/meta/type_traits
-  - app_links (0.0.1):
-    - Flutter
   - AppAuth (1.6.2):
     - AppAuth/Core (= 1.6.2)
     - AppAuth/ExternalUserAgent (= 1.6.2)
@@ -647,8 +645,6 @@ PODS:
     - firebase_core
     - Flutter
     - nanopb (< 2.30910.0, >= 2.30908.0)
-  - device_info (0.0.1):
-    - Flutter
   - devicelocale (0.0.1):
     - Flutter
   - DKImagePickerController/Core (4.3.4):
@@ -682,9 +678,6 @@ PODS:
   - DKPhotoGallery/Resource (0.0.17):
     - SDWebImage
     - SwiftyGif
-  - easy_paypal (1.0.0):
-    - Flutter
-    - PayPalCheckout (~> 0.110.0)
   - FBAEMKit (16.0.1):
     - FBSDKCoreKit_Basics (= 16.0.1)
   - FBSDKCoreKit (16.0.1):
@@ -834,8 +827,6 @@ PODS:
     - Flutter
   - flutter_secure_storage (6.0.0):
     - Flutter
-  - flutter_tts (0.0.1):
-    - Flutter
   - fluttertoast (0.0.2):
     - Flutter
     - Toast
@@ -973,13 +964,8 @@ PODS:
     - AppAuth/Core (~> 1.6)
     - GTMSessionFetcher/Core (< 3.0, >= 1.5)
   - GTMSessionFetcher/Core (2.3.0)
-  - image_gallery_saver (1.5.0):
-    - Flutter
   - image_picker_ios (0.0.1):
     - Flutter
-  - in_app_purchase_storekit (0.0.1):
-    - Flutter
-    - FlutterMacOS
   - inspireui (1.0.0):
     - Flutter
   - leveldb-library (1.22.2)
@@ -990,18 +976,7 @@ PODS:
     - Flutter
   - location (0.0.1):
     - Flutter
-  - midtrans_sdk (0.3.4):
-    - Flutter
-    - MidtransKit (= 1.20.1)
-  - MidtransCoreKit (1.20.1)
-  - MidtransKit (1.20.1):
-    - MidtransCoreKit (= 1.20.1)
-    - MidtransKit/UI (= 1.20.1)
-  - MidtransKit/UI (1.20.1):
-    - MidtransCoreKit (= 1.20.1)
   - MTBBarcodeScanner (5.0.11)
-  - myfatoorah_flutter (0.0.1):
-    - Flutter
   - nanopb (2.30909.0):
     - nanopb/decode (= 2.30909.0)
     - nanopb/encode (= 2.30909.0)
@@ -1028,9 +1003,6 @@ PODS:
   - path_provider_foundation (0.0.1):
     - Flutter
     - FlutterMacOS
-  - pay_ios (0.0.1):
-    - Flutter
-  - PayPalCheckout (0.110.0)
   - paytm_allinonesdk (1.2.1):
     - Flutter
   - permission_handler_apple (9.1.0):
@@ -1045,11 +1017,6 @@ PODS:
     - Flutter
     - FlutterMacOS
   - PromisesObjC (2.2.0)
-  - purchases_flutter (4.13.0):
-    - Flutter
-    - PurchasesHybridCommon (= 4.18.0)
-  - PurchasesHybridCommon (4.18.0):
-    - RevenueCat (= 4.21.0)
   - qr_code_scanner (0.2.0):
     - Flutter
     - MTBBarcodeScanner
@@ -1059,7 +1026,6 @@ PODS:
   - razorpay_flutter (1.1.16):
     - Flutter
     - razorpay-pod
-  - RevenueCat (4.21.0)
   - rive_common (0.0.1):
     - Flutter
   - SDWebImage (5.16.0):
@@ -1067,13 +1033,9 @@ PODS:
   - SDWebImage/Core (5.16.0)
   - share (0.0.1):
     - Flutter
-  - share_plus (0.0.1):
-    - Flutter
   - shared_preferences_foundation (0.0.1):
     - Flutter
     - FlutterMacOS
-  - sign_in_with_apple (0.0.1):
-    - Flutter
   - sms_autofill (0.0.1):
     - Flutter
   - speech_to_text (0.0.1):
@@ -1082,42 +1044,6 @@ PODS:
   - sqflite (0.0.2):
     - Flutter
     - FMDB (>= 2.7.5)
-  - Stripe (23.6.0):
-    - StripeApplePay (= 23.6.0)
-    - StripeCore (= 23.6.0)
-    - StripePayments (= 23.6.0)
-    - StripePaymentsUI (= 23.6.0)
-    - StripeUICore (= 23.6.0)
-  - stripe_ios (0.0.1):
-    - Flutter
-    - Stripe (= 23.6.0)
-    - StripeApplePay (= 23.6.0)
-    - StripeFinancialConnections (= 23.6.0)
-    - StripePayments (= 23.6.0)
-    - StripePaymentSheet (= 23.6.0)
-    - StripePaymentsUI (= 23.6.0)
-  - StripeApplePay (23.6.0):
-    - StripeCore (= 23.6.0)
-  - StripeCore (23.6.0)
-  - StripeFinancialConnections (23.6.0):
-    - StripeCore (= 23.6.0)
-    - StripeUICore (= 23.6.0)
-  - StripePayments (23.6.0):
-    - StripeCore (= 23.6.0)
-    - StripePayments/Stripe3DS2 (= 23.6.0)
-  - StripePayments/Stripe3DS2 (23.6.0):
-    - StripeCore (= 23.6.0)
-  - StripePaymentSheet (23.6.0):
-    - StripeApplePay (= 23.6.0)
-    - StripeCore (= 23.6.0)
-    - StripePayments (= 23.6.0)
-    - StripePaymentsUI (= 23.6.0)
-  - StripePaymentsUI (23.6.0):
-    - StripeCore (= 23.6.0)
-    - StripePayments (= 23.6.0)
-    - StripeUICore (= 23.6.0)
-  - StripeUICore (23.6.0):
-    - StripeCore (= 23.6.0)
   - SwiftyGif (5.4.4)
   - the_apple_sign_in (1.0.0):
     - Flutter
@@ -1131,11 +1057,8 @@ PODS:
     - Flutter
 
 DEPENDENCIES:
-  - app_links (from `.symlinks/plugins/app_links/ios`)
   - cloud_firestore (from `.symlinks/plugins/cloud_firestore/ios`)
-  - device_info (from `.symlinks/plugins/device_info/ios`)
   - devicelocale (from `.symlinks/plugins/devicelocale/ios`)
-  - easy_paypal (from `.symlinks/plugins/easy_paypal/ios`)
   - file_picker (from `.symlinks/plugins/file_picker/ios`)
   - firebase_analytics (from `.symlinks/plugins/firebase_analytics/ios`)
   - firebase_auth (from `.symlinks/plugins/firebase_auth/ios`)
@@ -1153,42 +1076,32 @@ DEPENDENCIES:
   - flutter_native_splash (from `.symlinks/plugins/flutter_native_splash/ios`)
   - flutter_paystack (from `.symlinks/plugins/flutter_paystack/ios`)
   - flutter_secure_storage (from `.symlinks/plugins/flutter_secure_storage/ios`)
-  - flutter_tts (from `.symlinks/plugins/flutter_tts/ios`)
   - fluttertoast (from `.symlinks/plugins/fluttertoast/ios`)
   - google_maps_flutter_ios (from `.symlinks/plugins/google_maps_flutter_ios/ios`)
   - google_mobile_ads (from `.symlinks/plugins/google_mobile_ads/ios`)
   - google_sign_in_ios (from `.symlinks/plugins/google_sign_in_ios/ios`)
-  - image_gallery_saver (from `.symlinks/plugins/image_gallery_saver/ios`)
   - image_picker_ios (from `.symlinks/plugins/image_picker_ios/ios`)
-  - in_app_purchase_storekit (from `.symlinks/plugins/in_app_purchase_storekit/darwin`)
   - inspireui (from `.symlinks/plugins/inspireui/ios`)
   - libphonenumber_plugin (from `.symlinks/plugins/libphonenumber_plugin/ios`)
   - local_auth_ios (from `.symlinks/plugins/local_auth_ios/ios`)
   - location (from `.symlinks/plugins/location/ios`)
-  - midtrans_sdk (from `.symlinks/plugins/midtrans_sdk/ios`)
-  - myfatoorah_flutter (from `.symlinks/plugins/myfatoorah_flutter/ios`)
   - notification_permissions (from `.symlinks/plugins/notification_permissions/ios`)
   - onesignal_flutter (from `.symlinks/plugins/onesignal_flutter/ios`)
   - OneSignalXCFramework (< 4.0, >= 3.4.3)
   - package_info_plus (from `.symlinks/plugins/package_info_plus/ios`)
   - path_provider_foundation (from `.symlinks/plugins/path_provider_foundation/darwin`)
-  - pay_ios (from `.symlinks/plugins/pay_ios/ios`)
   - paytm_allinonesdk (from `.symlinks/plugins/paytm_allinonesdk/ios`)
   - permission_handler_apple (from `.symlinks/plugins/permission_handler_apple/ios`)
   - photo_manager (from `.symlinks/plugins/photo_manager/ios`)
-  - purchases_flutter (from `.symlinks/plugins/purchases_flutter/ios`)
   - qr_code_scanner (from `.symlinks/plugins/qr_code_scanner/ios`)
   - rate_my_app (from `.symlinks/plugins/rate_my_app/ios`)
   - razorpay_flutter (from `.symlinks/plugins/razorpay_flutter/ios`)
   - rive_common (from `.symlinks/plugins/rive_common/ios`)
   - share (from `.symlinks/plugins/share/ios`)
-  - share_plus (from `.symlinks/plugins/share_plus/ios`)
   - shared_preferences_foundation (from `.symlinks/plugins/shared_preferences_foundation/darwin`)
-  - sign_in_with_apple (from `.symlinks/plugins/sign_in_with_apple/ios`)
   - sms_autofill (from `.symlinks/plugins/sms_autofill/ios`)
   - speech_to_text (from `.symlinks/plugins/speech_to_text/ios`)
   - sqflite (from `.symlinks/plugins/sqflite/ios`)
-  - stripe_ios (from `.symlinks/plugins/stripe_ios/ios`)
   - the_apple_sign_in (from `.symlinks/plugins/the_apple_sign_in/ios`)
   - url_launcher_ios (from `.symlinks/plugins/url_launcher_ios/ios`)
   - video_player_avfoundation (from `.symlinks/plugins/video_player_avfoundation/ios`)
@@ -1230,42 +1143,23 @@ SPEC REPOS:
     - GTMAppAuth
     - GTMSessionFetcher
     - leveldb-library
-    - MidtransCoreKit
-    - MidtransKit
     - MTBBarcodeScanner
     - nanopb
     - OneSignalXCFramework
     - OrderedSet
-    - PayPalCheckout
     - PhoneNumberKit
     - PromisesObjC
-    - PurchasesHybridCommon
     - razorpay-pod
-    - RevenueCat
     - SDWebImage
-    - Stripe
-    - StripeApplePay
-    - StripeCore
-    - StripeFinancialConnections
-    - StripePayments
-    - StripePaymentSheet
-    - StripePaymentsUI
-    - StripeUICore
     - SwiftyGif
     - Toast
     - Try
 
 EXTERNAL SOURCES:
-  app_links:
-    :path: ".symlinks/plugins/app_links/ios"
   cloud_firestore:
     :path: ".symlinks/plugins/cloud_firestore/ios"
-  device_info:
-    :path: ".symlinks/plugins/device_info/ios"
   devicelocale:
     :path: ".symlinks/plugins/devicelocale/ios"
-  easy_paypal:
-    :path: ".symlinks/plugins/easy_paypal/ios"
   file_picker:
     :path: ".symlinks/plugins/file_picker/ios"
   firebase_analytics:
@@ -1300,8 +1194,6 @@ EXTERNAL SOURCES:
     :path: ".symlinks/plugins/flutter_paystack/ios"
   flutter_secure_storage:
     :path: ".symlinks/plugins/flutter_secure_storage/ios"
-  flutter_tts:
-    :path: ".symlinks/plugins/flutter_tts/ios"
   fluttertoast:
     :path: ".symlinks/plugins/fluttertoast/ios"
   google_maps_flutter_ios:
@@ -1310,12 +1202,8 @@ EXTERNAL SOURCES:
     :path: ".symlinks/plugins/google_mobile_ads/ios"
   google_sign_in_ios:
     :path: ".symlinks/plugins/google_sign_in_ios/ios"
-  image_gallery_saver:
-    :path: ".symlinks/plugins/image_gallery_saver/ios"
   image_picker_ios:
     :path: ".symlinks/plugins/image_picker_ios/ios"
-  in_app_purchase_storekit:
-    :path: ".symlinks/plugins/in_app_purchase_storekit/darwin"
   inspireui:
     :path: ".symlinks/plugins/inspireui/ios"
   libphonenumber_plugin:
@@ -1324,10 +1212,6 @@ EXTERNAL SOURCES:
     :path: ".symlinks/plugins/local_auth_ios/ios"
   location:
     :path: ".symlinks/plugins/location/ios"
-  midtrans_sdk:
-    :path: ".symlinks/plugins/midtrans_sdk/ios"
-  myfatoorah_flutter:
-    :path: ".symlinks/plugins/myfatoorah_flutter/ios"
   notification_permissions:
     :path: ".symlinks/plugins/notification_permissions/ios"
   onesignal_flutter:
@@ -1336,16 +1220,12 @@ EXTERNAL SOURCES:
     :path: ".symlinks/plugins/package_info_plus/ios"
   path_provider_foundation:
     :path: ".symlinks/plugins/path_provider_foundation/darwin"
-  pay_ios:
-    :path: ".symlinks/plugins/pay_ios/ios"
   paytm_allinonesdk:
     :path: ".symlinks/plugins/paytm_allinonesdk/ios"
   permission_handler_apple:
     :path: ".symlinks/plugins/permission_handler_apple/ios"
   photo_manager:
     :path: ".symlinks/plugins/photo_manager/ios"
-  purchases_flutter:
-    :path: ".symlinks/plugins/purchases_flutter/ios"
   qr_code_scanner:
     :path: ".symlinks/plugins/qr_code_scanner/ios"
   rate_my_app:
@@ -1356,20 +1236,14 @@ EXTERNAL SOURCES:
     :path: ".symlinks/plugins/rive_common/ios"
   share:
     :path: ".symlinks/plugins/share/ios"
-  share_plus:
-    :path: ".symlinks/plugins/share_plus/ios"
   shared_preferences_foundation:
     :path: ".symlinks/plugins/shared_preferences_foundation/darwin"
-  sign_in_with_apple:
-    :path: ".symlinks/plugins/sign_in_with_apple/ios"
   sms_autofill:
     :path: ".symlinks/plugins/sms_autofill/ios"
   speech_to_text:
     :path: ".symlinks/plugins/speech_to_text/ios"
   sqflite:
     :path: ".symlinks/plugins/sqflite/ios"
-  stripe_ios:
-    :path: ".symlinks/plugins/stripe_ios/ios"
   the_apple_sign_in:
     :path: ".symlinks/plugins/the_apple_sign_in/ios"
   url_launcher_ios:
@@ -1381,15 +1255,12 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   abseil: 926fb7a82dc6d2b8e1f2ed7f3a718bce691d1e46
-  app_links: 5ef33d0d295a89d9d16bb81b0e3b0d5f70d6c875
   AppAuth: 3bb1d1cd9340bd09f5ed189fb00b1cc28e1e8570
   BoringSSL-GRPC: 3175b25143e648463a56daeaaa499c6cb86dad33
   cloud_firestore: eb6bea100a5957ac15e911a317a52738813e72ef
-  device_info: d7d233b645a32c40dfdc212de5cf646ca482f175
   devicelocale: b22617f40038496deffba44747101255cee005b0
   DKImagePickerController: b512c28220a2b8ac7419f21c491fc8534b7601ac
   DKPhotoGallery: fdfad5125a9fdda9cc57df834d49df790dbb4179
-  easy_paypal: 448c533b46d40243fc98b05f1ac73d9429f74187
   FBAEMKit: daac7466b918752f020345be5c7d9787f98cfc07
   FBSDKCoreKit: 2cb033464b2134af0138f87d20b859eb3f9be359
   FBSDKCoreKit_Basics: d37280da2e65872f0e931d15f45d97ea324fec37
@@ -1423,7 +1294,6 @@ SPEC CHECKSUMS:
   flutter_native_splash: 52501b97d1c0a5f898d687f1646226c1f93c56ef
   flutter_paystack: 50021637b71e7712780744f69d2843e71b65175d
   flutter_secure_storage: 23fc622d89d073675f2eaa109381aefbcf5a49be
-  flutter_tts: 0f492aab6accf87059b72354fcb4ba934304771d
   fluttertoast: eb263d302cc92e04176c053d2385237e9f43fad0
   FMDB: 2ce00b547f966261cd18927a3ddb07cb6f3db82a
   Google-Mobile-Ads-SDK: 32fe7836431a06a29f7734ae092b600137c8108d
@@ -1440,19 +1310,13 @@ SPEC CHECKSUMS:
   gRPC-Core: 17108291d84332196d3c8466b48f016fc17d816d
   GTMAppAuth: 0ff230db599948a9ad7470ca667337803b3fc4dd
   GTMSessionFetcher: 3a63d75eecd6aa32c2fc79f578064e1214dfdec2
-  image_gallery_saver: 259eab68fb271cfd57d599904f7acdc7832e7ef2
   image_picker_ios: 4a8aadfbb6dc30ad5141a2ce3832af9214a705b5
-  in_app_purchase_storekit: 4fb7ee9e824b1f09107fbfbbce8c4b276366dc43
   inspireui: c686838cac23db1a77e7d1ff13d1ccd202b3bfb9
   leveldb-library: f03246171cce0484482ec291f88b6d563699ee06
   libphonenumber_plugin: e8a7d64a6624a7c25f2c4ab0b7ead2a8e341e35e
   local_auth_ios: c6cf091ded637a88f24f86a8875d8b0f526e2605
   location: 3a2eed4dd2fab25e7b7baf2a9efefe82b512d740
-  midtrans_sdk: 86c6620e0ea827c1000b8898375b52698348ff6c
-  MidtransCoreKit: 2503bd419c78445c59360b81afc2733dee226c8c
-  MidtransKit: f230a539a9b57bd314a91d78044ceee95fb76751
   MTBBarcodeScanner: f453b33c4b7dfe545d8c6484ed744d55671788cb
-  myfatoorah_flutter: 7db54f4e59b70038704a174c3511718e0d1746b1
   nanopb: b552cce312b6c8484180ef47159bc0f65a1f0431
   notification_permissions: 825ea1bf2a52ab585c53fd7b5e8e96876d735d4b
   onesignal_flutter: b8ac01bc3ebe47e798d7d775455c3a9b5b84f1c5
@@ -1460,38 +1324,22 @@ SPEC CHECKSUMS:
   OrderedSet: aaeb196f7fef5a9edf55d89760da9176ad40b93c
   package_info_plus: fd030dabf36271f146f1f3beacd48f564b0f17f7
   path_provider_foundation: c68054786f1b4f3343858c1e1d0caaded73f0be9
-  pay_ios: 8c7beb9c61d885f3f51b61f75f8793023fc8843a
-  PayPalCheckout: 91b3b728e2bfff22ecffcafcf374574b760f52f9
   paytm_allinonesdk: 40f4db5d33dc7960b4e87cd8e643f8cafdfca180
   permission_handler_apple: 8f116445eff3c0e7c65ad60f5fef5490aa94b4e4
   PhoneNumberKit: 441e8b26ec88d598e3591de9061eff18f5dd12e8
   photo_manager: 4f6810b7dfc4feb03b461ac1a70dacf91fba7604
   PromisesObjC: 09985d6d70fbe7878040aa746d78236e6946d2ef
-  purchases_flutter: ee7f7c20c021c4a1a482a70ab78d3d36594295bb
-  PurchasesHybridCommon: 6b510d4965166df2137347a414d6a8e2906d5a5e
   qr_code_scanner: bb67d64904c3b9658ada8c402e8b4d406d5d796e
   rate_my_app: 80fba94c4885cd31738231b7b1f51c1ad726f5c7
   razorpay-pod: b129f60de5f0d0952bebfb9480a10909d4fd6b6d
   razorpay_flutter: 1044c44fa461d71fb8c56c7c767ae05e3a06b1e4
-  RevenueCat: 465a9dc1fff60b09f29792082e5d5d5aeed01122
   rive_common: 60ae7896ab40f9513974f36f015de33f70d2c5c5
   SDWebImage: 2aea163b50bfcb569a2726b6a754c54a4506fcf6
   share: 0b2c3e82132f5888bccca3351c504d0003b3b410
-  share_plus: 599aa54e4ea31d4b4c0e9c911bcc26c55e791028
   shared_preferences_foundation: 986fc17f3d3251412d18b0265f9c64113a8c2472
-  sign_in_with_apple: f3bf75217ea4c2c8b91823f225d70230119b8440
   sms_autofill: c461043483362c3f1709ee76eaae6eb570b31686
   speech_to_text: b43a7d99aef037bd758ed8e45d79bbac035d2dfe
   sqflite: 6d358c025f5b867b29ed92fc697fd34924e11904
-  Stripe: 097f76ce332ff7dcb8a29ec2a8379bb4f34aa14d
-  stripe_ios: dfb96f1e36a0feb24596e280dfdc33d4106e9e77
-  StripeApplePay: 484761d4760ddb8af8c1510b8735cd9aee94515f
-  StripeCore: 0e83ad26d508e5a8e9eb04d6ddd3cbb08a3f7816
-  StripeFinancialConnections: eb303783458a7e5bd4380cbbf0a6cf44246473f4
-  StripePayments: cdd5222052d541f4daf1d84515f0b9cd18720534
-  StripePaymentSheet: 835aabcac7946d6b6b341055d021428b96894b70
-  StripePaymentsUI: 835b9422f86ceb2ca02b4146db9d3f7bf1acb0d9
-  StripeUICore: 81bac0f54df659ab7c5dd4f5a57719a5fecdcdc9
   SwiftyGif: 93a1cc87bf3a51916001cf8f3d63835fb64c819f
   the_apple_sign_in: 2e78c83cdb09eba07bb16dcc1f3bc12fcdc8263d
   Toast: 91b396c56ee72a5790816f40d3a94dd357abc196
