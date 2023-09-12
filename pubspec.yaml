@@ -218,18 +218,16 @@ dev_dependencies:
 #  dependency_validator: 3.2.2  # pub run dependency_validator
 
 ### Enable Generate Icon library
-  flutter_launcher_icons:
-    git:
-      url: https://github.com/inspireui/flutter_launcher_icons.git
-      ref: 7aab578231120ef39d37db34e07dce3c7995ee14
-      remove_alpha_ios: true
+#  flutter_launcher_icons:
+#    git:
+#      url: https://github.com/inspireui/flutter_launcher_icons.git
+#      ref: 7aab578231120ef39d37db34e07dce3c7995ee14
 
 #  Run this script to generate the app icon: flutter pub run flutter_launcher_icons:main
 
 flutter_icons:
   android: "launcher_icon"
   ios: true
-  remove_alpha_ios: true
   image_path: "assets/images/app_icon.jpg"
 
 flutter:

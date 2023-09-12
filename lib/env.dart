@@ -913,8 +913,8 @@ Map<String, dynamic> environment = {
   },
   "googleApiKey": {
     "web": "AIzaSyDSNYVC-8DU9BTcyqkeN9c5pgVhwOBAvGg",
-    "android": "AIzaSyDSNYVC-8DU9BTcyqkeN9c5pgVhwOBAvGg",
-    "ios": "AIzaSyDSNYVC-8DU9BTcyqkeN9c5pgVhwOBAvGg"
+    "android": "AIzaSyAm_ZEJZ58IDAn9IjtGr3a9Y0UKKjOcWI0",
+    "ios": "AIzaSyCtm8wrDbkyLzcxHu2rmsSMS_9-b5nSgZg"
   },
   "oneSignalKey": {
     "enable": true,
