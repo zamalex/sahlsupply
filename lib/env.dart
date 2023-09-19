@@ -178,28 +178,12 @@ Map<String, dynamic> environment = {
   },
   "smartChat": [
     {
-      "app": "firebase",
-      "imageData":
-          "https://trello.com/1/cards/611a38c89ebde41ec7cf10e2/attachments/611a392cceb1b534aa92a83e/previews/611a392dceb1b534aa92a84d/download",
-      "description": "Realtime Chat"
-    },
-    {
-      "app": "chatGPT",
-      "imageData": "https://i.imgur.com/pp1qlPd.png",
-      "description": "Chat GPT"
-    },
-    {
       "app": "https://wa.me/966544892611",
       "description": "WhatsApp",
       "iconData": "whatsapp"
     },
     {"app": "tel:966544892611", "description": "Call Us", "iconData": "phone"},
     {"app": "sms://966544892611", "description": "Send SMS", "iconData": "sms"},
-    {
-      "app": "https://tawk.to/chat/5d830419c22bdd393bb69888/default",
-      "description": "Tawk Chat",
-      "iconData": "whatsapp"
-    },
     {
       "app": "https://www.facebook.com/sahlsuppliment",
       "description": "Facebook Chat",
@@ -411,7 +395,7 @@ Map<String, dynamic> environment = {
     "EnableDigitsMobileLogin": false,
     "EnableVersionCheck": false,
     "enableProductBackdrop": false,
-    "kIsResizeImage": false,
+    "kIsResizeImage": true,
     "WebViewScript": "",
     "EnableMembershipUltimate": false,
     "gdpr": {
