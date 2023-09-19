@@ -1,0 +1,15 @@
+com.jaumard.smsautofill.sms_autofill-jetified-annotation-experimental-1.1.0-0 /Users/user244009/.gradle/caches/transforms-3/07fec599792831fcdbaff5fccb9ea008/transformed/jetified-annotation-experimental-1.1.0/res
+com.jaumard.smsautofill.sms_autofill-core-1.6.0-1 /Users/user244009/.gradle/caches/transforms-3/224802b2eab8f99a3b6379c9abb8addb/transformed/core-1.6.0/res
+com.jaumard.smsautofill.sms_autofill-jetified-play-services-base-17.5.0-2 /Users/user244009/.gradle/caches/transforms-3/2589c1b4e6b00ce2e622d482120391dc/transformed/jetified-play-services-base-17.5.0/res
+com.jaumard.smsautofill.sms_autofill-jetified-window-java-1.0.0-beta04-3 /Users/user244009/.gradle/caches/transforms-3/568cac67431a7b5e14b4adbeaacdcbd4/transformed/jetified-window-java-1.0.0-beta04/res
+com.jaumard.smsautofill.sms_autofill-jetified-play-services-basement-17.5.0-4 /Users/user244009/.gradle/caches/transforms-3/8ccc1ded7636de443bb195d496051173/transformed/jetified-play-services-basement-17.5.0/res
+com.jaumard.smsautofill.sms_autofill-jetified-play-services-auth-19.2.0-5 /Users/user244009/.gradle/caches/transforms-3/b4d89bf8cd9c64e758c12f9d84f3bdd4/transformed/jetified-play-services-auth-19.2.0/res
+com.jaumard.smsautofill.sms_autofill-jetified-window-1.0.0-beta04-6 /Users/user244009/.gradle/caches/transforms-3/e39d25a91ab4d8962b61006bb1c3b5e8/transformed/jetified-window-1.0.0-beta04/res
+com.jaumard.smsautofill.sms_autofill-main-7 /Users/user244009/.pub-cache/hosted/pub.dev/sms_autofill-2.3.0/android/src/main/res
+com.jaumard.smsautofill.sms_autofill-release-8 /Users/user244009/.pub-cache/hosted/pub.dev/sms_autofill-2.3.0/android/src/release/res
+com.jaumard.smsautofill.sms_autofill-pngs-9 /Users/user244009/Documents/sahlsupply/build/sms_autofill/generated/res/pngs/release
+com.jaumard.smsautofill.sms_autofill-resValues-10 /Users/user244009/Documents/sahlsupply/build/sms_autofill/generated/res/resValues/release
+com.jaumard.smsautofill.sms_autofill-rs-11 /Users/user244009/Documents/sahlsupply/build/sms_autofill/generated/res/rs/release
+com.jaumard.smsautofill.sms_autofill-mergeReleaseResources-12 /Users/user244009/Documents/sahlsupply/build/sms_autofill/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.jaumard.smsautofill.sms_autofill-mergeReleaseResources-13 /Users/user244009/Documents/sahlsupply/build/sms_autofill/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.jaumard.smsautofill.sms_autofill-merged_res-14 /Users/user244009/Documents/sahlsupply/build/sms_autofill/intermediates/merged_res/release

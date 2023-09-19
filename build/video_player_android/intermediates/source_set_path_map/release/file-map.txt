@@ -1,0 +1,14 @@
+io.flutter.plugins.videoplayer.video_player_android-jetified-annotation-experimental-1.1.0-0 /Users/user244009/.gradle/caches/transforms-3/07fec599792831fcdbaff5fccb9ea008/transformed/jetified-annotation-experimental-1.1.0/res
+io.flutter.plugins.videoplayer.video_player_android-jetified-window-java-1.0.0-beta04-1 /Users/user244009/.gradle/caches/transforms-3/568cac67431a7b5e14b4adbeaacdcbd4/transformed/jetified-window-java-1.0.0-beta04/res
+io.flutter.plugins.videoplayer.video_player_android-lifecycle-runtime-2.3.1-2 /Users/user244009/.gradle/caches/transforms-3/90f9d2405a858c0e59989de54b2446ec/transformed/lifecycle-runtime-2.3.1/res
+io.flutter.plugins.videoplayer.video_player_android-core-1.7.0-3 /Users/user244009/.gradle/caches/transforms-3/a986514939f9989004ca61307c7ac67d/transformed/core-1.7.0/res
+io.flutter.plugins.videoplayer.video_player_android-jetified-window-1.0.0-beta04-4 /Users/user244009/.gradle/caches/transforms-3/e39d25a91ab4d8962b61006bb1c3b5e8/transformed/jetified-window-1.0.0-beta04/res
+io.flutter.plugins.videoplayer.video_player_android-jetified-exoplayer-core-2.18.5-5 /Users/user244009/.gradle/caches/transforms-3/e91e3e6474f16718ac67937a4398499a/transformed/jetified-exoplayer-core-2.18.5/res
+io.flutter.plugins.videoplayer.video_player_android-main-6 /Users/user244009/.pub-cache/hosted/pub.dev/video_player_android-2.4.7/android/src/main/res
+io.flutter.plugins.videoplayer.video_player_android-release-7 /Users/user244009/.pub-cache/hosted/pub.dev/video_player_android-2.4.7/android/src/release/res
+io.flutter.plugins.videoplayer.video_player_android-pngs-8 /Users/user244009/Documents/sahlsupply/build/video_player_android/generated/res/pngs/release
+io.flutter.plugins.videoplayer.video_player_android-resValues-9 /Users/user244009/Documents/sahlsupply/build/video_player_android/generated/res/resValues/release
+io.flutter.plugins.videoplayer.video_player_android-rs-10 /Users/user244009/Documents/sahlsupply/build/video_player_android/generated/res/rs/release
+io.flutter.plugins.videoplayer.video_player_android-mergeReleaseResources-11 /Users/user244009/Documents/sahlsupply/build/video_player_android/intermediates/incremental/release/mergeReleaseResources/merged.dir
+io.flutter.plugins.videoplayer.video_player_android-mergeReleaseResources-12 /Users/user244009/Documents/sahlsupply/build/video_player_android/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+io.flutter.plugins.videoplayer.video_player_android-merged_res-13 /Users/user244009/Documents/sahlsupply/build/video_player_android/intermediates/merged_res/release

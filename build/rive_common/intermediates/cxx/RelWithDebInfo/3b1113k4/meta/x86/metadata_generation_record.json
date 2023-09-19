@@ -1,0 +1,184 @@
+[
+  {
+    "level_": 0,
+    "message_": "Start JSON generation. Platform version: 19 min SDK version: x86",
+    "file_": "/Users/user244009/.pub-cache/hosted/pub.dev/rive_common-0.0.9/android/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 101201685
+  },
+  {
+    "level_": 0,
+    "message_": "rebuilding JSON /Users/user244009/.pub-cache/hosted/pub.dev/rive_common-0.0.9/android/.cxx/RelWithDebInfo/3b1113k4/x86/android_gradle_build.json due to:",
+    "file_": "/Users/user244009/.pub-cache/hosted/pub.dev/rive_common-0.0.9/android/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 626745881
+  },
+  {
+    "level_": 0,
+    "message_": "- expected json /Users/user244009/.pub-cache/hosted/pub.dev/rive_common-0.0.9/android/.cxx/RelWithDebInfo/3b1113k4/x86/android_gradle_build.json file is not present, will remove stale json folder",
+    "file_": "/Users/user244009/.pub-cache/hosted/pub.dev/rive_common-0.0.9/android/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1884892885
+  },
+  {
+    "level_": 0,
+    "message_": "- missing previous command file /Users/user244009/.pub-cache/hosted/pub.dev/rive_common-0.0.9/android/.cxx/RelWithDebInfo/3b1113k4/x86/metadata_generation_command.txt, will remove stale json folder",
+    "file_": "/Users/user244009/.pub-cache/hosted/pub.dev/rive_common-0.0.9/android/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -704805335
+  },
+  {
+    "level_": 0,
+    "message_": "- command changed from previous, will remove stale json folder",
+    "file_": "/Users/user244009/.pub-cache/hosted/pub.dev/rive_common-0.0.9/android/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1066080142
+  },
+  {
+    "level_": 0,
+    "message_": "removing stale contents from \u0027/Users/user244009/.pub-cache/hosted/pub.dev/rive_common-0.0.9/android/.cxx/RelWithDebInfo/3b1113k4/x86\u0027",
+    "file_": "/Users/user244009/.pub-cache/hosted/pub.dev/rive_common-0.0.9/android/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1663656952
+  },
+  {
+    "level_": 0,
+    "message_": "created folder \u0027/Users/user244009/.pub-cache/hosted/pub.dev/rive_common-0.0.9/android/.cxx/RelWithDebInfo/3b1113k4/x86\u0027",
+    "file_": "/Users/user244009/.pub-cache/hosted/pub.dev/rive_common-0.0.9/android/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1878693740
+  },
+  {
+    "level_": 0,
+    "message_": "executing cmake Executable : /Users/user244009/Library/Android/sdk/cmake/3.18.1/bin/cmake\narguments : \n-H/Users/user244009/.pub-cache/hosted/pub.dev/rive_common-0.0.9/android\n-DCMAKE_SYSTEM_NAME\u003dAndroid\n-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\n-DCMAKE_SYSTEM_VERSION\u003d19\n-DANDROID_PLATFORM\u003dandroid-19\n-DANDROID_ABI\u003dx86\n-DCMAKE_ANDROID_ARCH_ABI\u003dx86\n-DANDROID_NDK\u003d/Users/user244009/Library/Android/sdk/ndk/25.1.8937393\n-DCMAKE_ANDROID_NDK\u003d/Users/user244009/Library/Android/sdk/ndk/25.1.8937393\n-DCMAKE_TOOLCHAIN_FILE\u003d/Users/user244009/Library/Android/sdk/ndk/25.1.8937393/build/cmake/android.toolchain.cmake\n-DCMAKE_MAKE_PROGRAM\u003d/Users/user244009/Library/Android/sdk/cmake/3.18.1/bin/ninja\n-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003d/Users/user244009/Documents/sahlsupply/build/rive_common/intermediates/cxx/RelWithDebInfo/3b1113k4/obj/x86\n-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003d/Users/user244009/Documents/sahlsupply/build/rive_common/intermediates/cxx/RelWithDebInfo/3b1113k4/obj/x86\n-DCMAKE_BUILD_TYPE\u003dRelWithDebInfo\n-B/Users/user244009/.pub-cache/hosted/pub.dev/rive_common-0.0.9/android/.cxx/RelWithDebInfo/3b1113k4/x86\n-GNinja\njvmArgs : \n\n",
+    "file_": "/Users/user244009/.pub-cache/hosted/pub.dev/rive_common-0.0.9/android/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 950381965
+  },
+  {
+    "level_": 0,
+    "message_": "Executable : /Users/user244009/Library/Android/sdk/cmake/3.18.1/bin/cmake\narguments : \n-H/Users/user244009/.pub-cache/hosted/pub.dev/rive_common-0.0.9/android\n-DCMAKE_SYSTEM_NAME\u003dAndroid\n-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\n-DCMAKE_SYSTEM_VERSION\u003d19\n-DANDROID_PLATFORM\u003dandroid-19\n-DANDROID_ABI\u003dx86\n-DCMAKE_ANDROID_ARCH_ABI\u003dx86\n-DANDROID_NDK\u003d/Users/user244009/Library/Android/sdk/ndk/25.1.8937393\n-DCMAKE_ANDROID_NDK\u003d/Users/user244009/Library/Android/sdk/ndk/25.1.8937393\n-DCMAKE_TOOLCHAIN_FILE\u003d/Users/user244009/Library/Android/sdk/ndk/25.1.8937393/build/cmake/android.toolchain.cmake\n-DCMAKE_MAKE_PROGRAM\u003d/Users/user244009/Library/Android/sdk/cmake/3.18.1/bin/ninja\n-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003d/Users/user244009/Documents/sahlsupply/build/rive_common/intermediates/cxx/RelWithDebInfo/3b1113k4/obj/x86\n-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003d/Users/user244009/Documents/sahlsupply/build/rive_common/intermediates/cxx/RelWithDebInfo/3b1113k4/obj/x86\n-DCMAKE_BUILD_TYPE\u003dRelWithDebInfo\n-B/Users/user244009/.pub-cache/hosted/pub.dev/rive_common-0.0.9/android/.cxx/RelWithDebInfo/3b1113k4/x86\n-GNinja\njvmArgs : \n\n",
+    "file_": "/Users/user244009/.pub-cache/hosted/pub.dev/rive_common-0.0.9/android/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -195487348
+  },
+  {
+    "level_": 0,
+    "message_": "Exiting generation of /Users/user244009/.pub-cache/hosted/pub.dev/rive_common-0.0.9/android/.cxx/RelWithDebInfo/3b1113k4/x86/compile_commands.json.bin normally",
+    "file_": "/Users/user244009/.pub-cache/hosted/pub.dev/rive_common-0.0.9/android/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -2089718383
+  },
+  {
+    "level_": 0,
+    "message_": "done executing cmake",
+    "file_": "/Users/user244009/.pub-cache/hosted/pub.dev/rive_common-0.0.9/android/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 753733891
+  },
+  {
+    "level_": 0,
+    "message_": "write command file /Users/user244009/.pub-cache/hosted/pub.dev/rive_common-0.0.9/android/.cxx/RelWithDebInfo/3b1113k4/x86/metadata_generation_command.txt",
+    "file_": "/Users/user244009/.pub-cache/hosted/pub.dev/rive_common-0.0.9/android/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -924775581
+  },
+  {
+    "level_": 0,
+    "message_": "JSON generation completed without problems",
+    "file_": "/Users/user244009/.pub-cache/hosted/pub.dev/rive_common-0.0.9/android/CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1603160321
+  }
+]

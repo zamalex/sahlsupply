@@ -1,0 +1,12 @@
+io.flutter.plugins.flutter_plugin_android_lifecycle-jetified-annotation-experimental-1.1.0-0 /Users/user244009/.gradle/caches/transforms-3/07fec599792831fcdbaff5fccb9ea008/transformed/jetified-annotation-experimental-1.1.0/res
+io.flutter.plugins.flutter_plugin_android_lifecycle-core-1.6.0-1 /Users/user244009/.gradle/caches/transforms-3/224802b2eab8f99a3b6379c9abb8addb/transformed/core-1.6.0/res
+io.flutter.plugins.flutter_plugin_android_lifecycle-jetified-window-java-1.0.0-beta04-2 /Users/user244009/.gradle/caches/transforms-3/568cac67431a7b5e14b4adbeaacdcbd4/transformed/jetified-window-java-1.0.0-beta04/res
+io.flutter.plugins.flutter_plugin_android_lifecycle-jetified-window-1.0.0-beta04-3 /Users/user244009/.gradle/caches/transforms-3/e39d25a91ab4d8962b61006bb1c3b5e8/transformed/jetified-window-1.0.0-beta04/res
+io.flutter.plugins.flutter_plugin_android_lifecycle-main-4 /Users/user244009/.pub-cache/hosted/pub.dev/flutter_plugin_android_lifecycle-2.0.13/android/src/main/res
+io.flutter.plugins.flutter_plugin_android_lifecycle-release-5 /Users/user244009/.pub-cache/hosted/pub.dev/flutter_plugin_android_lifecycle-2.0.13/android/src/release/res
+io.flutter.plugins.flutter_plugin_android_lifecycle-pngs-6 /Users/user244009/Documents/sahlsupply/build/flutter_plugin_android_lifecycle/generated/res/pngs/release
+io.flutter.plugins.flutter_plugin_android_lifecycle-resValues-7 /Users/user244009/Documents/sahlsupply/build/flutter_plugin_android_lifecycle/generated/res/resValues/release
+io.flutter.plugins.flutter_plugin_android_lifecycle-rs-8 /Users/user244009/Documents/sahlsupply/build/flutter_plugin_android_lifecycle/generated/res/rs/release
+io.flutter.plugins.flutter_plugin_android_lifecycle-mergeReleaseResources-9 /Users/user244009/Documents/sahlsupply/build/flutter_plugin_android_lifecycle/intermediates/incremental/release/mergeReleaseResources/merged.dir
+io.flutter.plugins.flutter_plugin_android_lifecycle-mergeReleaseResources-10 /Users/user244009/Documents/sahlsupply/build/flutter_plugin_android_lifecycle/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+io.flutter.plugins.flutter_plugin_android_lifecycle-merged_res-11 /Users/user244009/Documents/sahlsupply/build/flutter_plugin_android_lifecycle/intermediates/merged_res/release

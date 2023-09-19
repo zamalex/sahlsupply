@@ -1,0 +1,14 @@
+de.ffuf.in_app_update-jetified-annotation-experimental-1.1.0-0 /Users/user244009/.gradle/caches/transforms-3/07fec599792831fcdbaff5fccb9ea008/transformed/jetified-annotation-experimental-1.1.0/res
+de.ffuf.in_app_update-core-1.6.0-1 /Users/user244009/.gradle/caches/transforms-3/224802b2eab8f99a3b6379c9abb8addb/transformed/core-1.6.0/res
+de.ffuf.in_app_update-jetified-window-java-1.0.0-beta04-2 /Users/user244009/.gradle/caches/transforms-3/568cac67431a7b5e14b4adbeaacdcbd4/transformed/jetified-window-java-1.0.0-beta04/res
+de.ffuf.in_app_update-jetified-play-services-basement-18.1.0-3 /Users/user244009/.gradle/caches/transforms-3/58e6fe0772ba7f9098a9b109e443a855/transformed/jetified-play-services-basement-18.1.0/res
+de.ffuf.in_app_update-jetified-core-common-2.0.3-4 /Users/user244009/.gradle/caches/transforms-3/ccf8b2dcfdaf6335738d4c5783a1ee94/transformed/jetified-core-common-2.0.3/res
+de.ffuf.in_app_update-jetified-window-1.0.0-beta04-5 /Users/user244009/.gradle/caches/transforms-3/e39d25a91ab4d8962b61006bb1c3b5e8/transformed/jetified-window-1.0.0-beta04/res
+de.ffuf.in_app_update-main-6 /Users/user244009/.pub-cache/hosted/pub.dev/in_app_update-4.1.3/android/src/main/res
+de.ffuf.in_app_update-release-7 /Users/user244009/.pub-cache/hosted/pub.dev/in_app_update-4.1.3/android/src/release/res
+de.ffuf.in_app_update-pngs-8 /Users/user244009/Documents/sahlsupply/build/in_app_update/generated/res/pngs/release
+de.ffuf.in_app_update-resValues-9 /Users/user244009/Documents/sahlsupply/build/in_app_update/generated/res/resValues/release
+de.ffuf.in_app_update-rs-10 /Users/user244009/Documents/sahlsupply/build/in_app_update/generated/res/rs/release
+de.ffuf.in_app_update-mergeReleaseResources-11 /Users/user244009/Documents/sahlsupply/build/in_app_update/intermediates/incremental/release/mergeReleaseResources/merged.dir
+de.ffuf.in_app_update-mergeReleaseResources-12 /Users/user244009/Documents/sahlsupply/build/in_app_update/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+de.ffuf.in_app_update-merged_res-13 /Users/user244009/Documents/sahlsupply/build/in_app_update/intermediates/merged_res/release

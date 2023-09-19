@@ -1,0 +1,12 @@
+app.rive.rive.rive_common-jetified-annotation-experimental-1.1.0-0 /Users/user244009/.gradle/caches/transforms-3/07fec599792831fcdbaff5fccb9ea008/transformed/jetified-annotation-experimental-1.1.0/res
+app.rive.rive.rive_common-core-1.6.0-1 /Users/user244009/.gradle/caches/transforms-3/224802b2eab8f99a3b6379c9abb8addb/transformed/core-1.6.0/res
+app.rive.rive.rive_common-jetified-window-java-1.0.0-beta04-2 /Users/user244009/.gradle/caches/transforms-3/568cac67431a7b5e14b4adbeaacdcbd4/transformed/jetified-window-java-1.0.0-beta04/res
+app.rive.rive.rive_common-jetified-window-1.0.0-beta04-3 /Users/user244009/.gradle/caches/transforms-3/e39d25a91ab4d8962b61006bb1c3b5e8/transformed/jetified-window-1.0.0-beta04/res
+app.rive.rive.rive_common-main-4 /Users/user244009/.pub-cache/hosted/pub.dev/rive_common-0.0.9/android/src/main/res
+app.rive.rive.rive_common-release-5 /Users/user244009/.pub-cache/hosted/pub.dev/rive_common-0.0.9/android/src/release/res
+app.rive.rive.rive_common-pngs-6 /Users/user244009/Documents/sahlsupply/build/rive_common/generated/res/pngs/release
+app.rive.rive.rive_common-resValues-7 /Users/user244009/Documents/sahlsupply/build/rive_common/generated/res/resValues/release
+app.rive.rive.rive_common-rs-8 /Users/user244009/Documents/sahlsupply/build/rive_common/generated/res/rs/release
+app.rive.rive.rive_common-mergeReleaseResources-9 /Users/user244009/Documents/sahlsupply/build/rive_common/intermediates/incremental/release/mergeReleaseResources/merged.dir
+app.rive.rive.rive_common-mergeReleaseResources-10 /Users/user244009/Documents/sahlsupply/build/rive_common/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+app.rive.rive.rive_common-merged_res-11 /Users/user244009/Documents/sahlsupply/build/rive_common/intermediates/merged_res/release

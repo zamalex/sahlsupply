@@ -1,0 +1,16 @@
+io.flutter.plugins.firebase.firestore.cloud_firestore-jetified-annotation-experimental-1.1.0-0 /Users/user244009/.gradle/caches/transforms-3/07fec599792831fcdbaff5fccb9ea008/transformed/jetified-annotation-experimental-1.1.0/res
+io.flutter.plugins.firebase.firestore.cloud_firestore-core-1.6.0-1 /Users/user244009/.gradle/caches/transforms-3/224802b2eab8f99a3b6379c9abb8addb/transformed/core-1.6.0/res
+io.flutter.plugins.firebase.firestore.cloud_firestore-jetified-window-java-1.0.0-beta04-2 /Users/user244009/.gradle/caches/transforms-3/568cac67431a7b5e14b4adbeaacdcbd4/transformed/jetified-window-java-1.0.0-beta04/res
+io.flutter.plugins.firebase.firestore.cloud_firestore-jetified-play-services-basement-18.1.0-3 /Users/user244009/.gradle/caches/transforms-3/58e6fe0772ba7f9098a9b109e443a855/transformed/jetified-play-services-basement-18.1.0/res
+io.flutter.plugins.firebase.firestore.cloud_firestore-jetified-play-services-base-18.0.1-4 /Users/user244009/.gradle/caches/transforms-3/9837f8dfa1c7130ffc5557e5e5533de6/transformed/jetified-play-services-base-18.0.1/res
+io.flutter.plugins.firebase.firestore.cloud_firestore-jetified-firebase-common-20.3.2-5 /Users/user244009/.gradle/caches/transforms-3/b55a4ac8931b34d4e1620a5093b750a9/transformed/jetified-firebase-common-20.3.2/res
+io.flutter.plugins.firebase.firestore.cloud_firestore-jetified-window-1.0.0-beta04-6 /Users/user244009/.gradle/caches/transforms-3/e39d25a91ab4d8962b61006bb1c3b5e8/transformed/jetified-window-1.0.0-beta04/res
+io.flutter.plugins.firebase.firestore.cloud_firestore-main-7 /Users/user244009/.pub-cache/hosted/pub.dev/cloud_firestore-4.8.1/android/src/main/res
+io.flutter.plugins.firebase.firestore.cloud_firestore-release-8 /Users/user244009/.pub-cache/hosted/pub.dev/cloud_firestore-4.8.1/android/src/release/res
+io.flutter.plugins.firebase.firestore.cloud_firestore-pngs-9 /Users/user244009/Documents/sahlsupply/build/cloud_firestore/generated/res/pngs/release
+io.flutter.plugins.firebase.firestore.cloud_firestore-resValues-10 /Users/user244009/Documents/sahlsupply/build/cloud_firestore/generated/res/resValues/release
+io.flutter.plugins.firebase.firestore.cloud_firestore-rs-11 /Users/user244009/Documents/sahlsupply/build/cloud_firestore/generated/res/rs/release
+io.flutter.plugins.firebase.firestore.cloud_firestore-mergeReleaseResources-12 /Users/user244009/Documents/sahlsupply/build/cloud_firestore/intermediates/incremental/release/mergeReleaseResources/merged.dir
+io.flutter.plugins.firebase.firestore.cloud_firestore-mergeReleaseResources-13 /Users/user244009/Documents/sahlsupply/build/cloud_firestore/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+io.flutter.plugins.firebase.firestore.cloud_firestore-merged_res-14 /Users/user244009/Documents/sahlsupply/build/cloud_firestore/intermediates/merged_res/release
+io.flutter.plugins.firebase.firestore.cloud_firestore-packaged_res-15 /Users/user244009/Documents/sahlsupply/build/firebase_core/intermediates/packaged_res/release

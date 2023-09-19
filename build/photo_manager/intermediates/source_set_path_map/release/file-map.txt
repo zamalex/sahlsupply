@@ -1,0 +1,17 @@
+com.fluttercandies.photo_manager-jetified-annotation-experimental-1.1.0-0 /Users/user244009/.gradle/caches/transforms-3/07fec599792831fcdbaff5fccb9ea008/transformed/jetified-annotation-experimental-1.1.0/res
+com.fluttercandies.photo_manager-core-1.6.0-1 /Users/user244009/.gradle/caches/transforms-3/224802b2eab8f99a3b6379c9abb8addb/transformed/core-1.6.0/res
+com.fluttercandies.photo_manager-jetified-window-java-1.0.0-beta04-2 /Users/user244009/.gradle/caches/transforms-3/568cac67431a7b5e14b4adbeaacdcbd4/transformed/jetified-window-java-1.0.0-beta04/res
+com.fluttercandies.photo_manager-jetified-glide-4.14.2-3 /Users/user244009/.gradle/caches/transforms-3/87488039840c951f48a46f8cac5a2f6e/transformed/jetified-glide-4.14.2/res
+com.fluttercandies.photo_manager-lifecycle-runtime-2.3.1-4 /Users/user244009/.gradle/caches/transforms-3/90f9d2405a858c0e59989de54b2446ec/transformed/lifecycle-runtime-2.3.1/res
+com.fluttercandies.photo_manager-lifecycle-viewmodel-2.3.1-5 /Users/user244009/.gradle/caches/transforms-3/b1732251c12a4cc84e39a3d51eaa5afa/transformed/lifecycle-viewmodel-2.3.1/res
+com.fluttercandies.photo_manager-fragment-1.3.6-6 /Users/user244009/.gradle/caches/transforms-3/c44c8e20ee3f41abb310834eae7354a8/transformed/fragment-1.3.6/res
+com.fluttercandies.photo_manager-jetified-savedstate-1.1.0-7 /Users/user244009/.gradle/caches/transforms-3/db613fa877b2c060dfdd46c8228f7f12/transformed/jetified-savedstate-1.1.0/res
+com.fluttercandies.photo_manager-jetified-window-1.0.0-beta04-8 /Users/user244009/.gradle/caches/transforms-3/e39d25a91ab4d8962b61006bb1c3b5e8/transformed/jetified-window-1.0.0-beta04/res
+com.fluttercandies.photo_manager-main-9 /Users/user244009/.pub-cache/hosted/pub.dev/photo_manager-2.6.0/android/src/main/res
+com.fluttercandies.photo_manager-release-10 /Users/user244009/.pub-cache/hosted/pub.dev/photo_manager-2.6.0/android/src/release/res
+com.fluttercandies.photo_manager-pngs-11 /Users/user244009/Documents/sahlsupply/build/photo_manager/generated/res/pngs/release
+com.fluttercandies.photo_manager-resValues-12 /Users/user244009/Documents/sahlsupply/build/photo_manager/generated/res/resValues/release
+com.fluttercandies.photo_manager-rs-13 /Users/user244009/Documents/sahlsupply/build/photo_manager/generated/res/rs/release
+com.fluttercandies.photo_manager-mergeReleaseResources-14 /Users/user244009/Documents/sahlsupply/build/photo_manager/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.fluttercandies.photo_manager-mergeReleaseResources-15 /Users/user244009/Documents/sahlsupply/build/photo_manager/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.fluttercandies.photo_manager-merged_res-16 /Users/user244009/Documents/sahlsupply/build/photo_manager/intermediates/merged_res/release

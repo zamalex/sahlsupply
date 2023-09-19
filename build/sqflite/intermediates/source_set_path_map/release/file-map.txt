@@ -1,0 +1,12 @@
+com.tekartik.sqfite.sqflite-jetified-annotation-experimental-1.1.0-0 /Users/user244009/.gradle/caches/transforms-3/07fec599792831fcdbaff5fccb9ea008/transformed/jetified-annotation-experimental-1.1.0/res
+com.tekartik.sqfite.sqflite-core-1.6.0-1 /Users/user244009/.gradle/caches/transforms-3/224802b2eab8f99a3b6379c9abb8addb/transformed/core-1.6.0/res
+com.tekartik.sqfite.sqflite-jetified-window-java-1.0.0-beta04-2 /Users/user244009/.gradle/caches/transforms-3/568cac67431a7b5e14b4adbeaacdcbd4/transformed/jetified-window-java-1.0.0-beta04/res
+com.tekartik.sqfite.sqflite-jetified-window-1.0.0-beta04-3 /Users/user244009/.gradle/caches/transforms-3/e39d25a91ab4d8962b61006bb1c3b5e8/transformed/jetified-window-1.0.0-beta04/res
+com.tekartik.sqfite.sqflite-main-4 /Users/user244009/.pub-cache/hosted/pub.dev/sqflite-2.2.8/android/src/main/res
+com.tekartik.sqfite.sqflite-release-5 /Users/user244009/.pub-cache/hosted/pub.dev/sqflite-2.2.8/android/src/release/res
+com.tekartik.sqfite.sqflite-pngs-6 /Users/user244009/Documents/sahlsupply/build/sqflite/generated/res/pngs/release
+com.tekartik.sqfite.sqflite-resValues-7 /Users/user244009/Documents/sahlsupply/build/sqflite/generated/res/resValues/release
+com.tekartik.sqfite.sqflite-rs-8 /Users/user244009/Documents/sahlsupply/build/sqflite/generated/res/rs/release
+com.tekartik.sqfite.sqflite-mergeReleaseResources-9 /Users/user244009/Documents/sahlsupply/build/sqflite/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.tekartik.sqfite.sqflite-mergeReleaseResources-10 /Users/user244009/Documents/sahlsupply/build/sqflite/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.tekartik.sqfite.sqflite-merged_res-11 /Users/user244009/Documents/sahlsupply/build/sqflite/intermediates/merged_res/release
